@@ -1,4 +1,4 @@
-<h1 align="center" 👋Hi, I'm Sharif Ali</h1>
+<h1 align="center"> 👋Hi, I'm Sharif Ali</h1>
 <h3 align="center">I am a junior computer science student at Queens College, passionate about building full stack applications and programming</h3>
 
 - I’m currently working on a Fullstack Mern Habit Tracker application **Habits4you**
