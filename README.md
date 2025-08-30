@@ -4,12 +4,12 @@
 - I’m currently working on a Fullstack Mern Habit Tracker application **Habits4you**
 
 What I'm Up To
-Pursuing Fall 2025 Software Engineering Opportunities
-Building Full-Stack Applications
-Sharpening Data Structures & Algorithims in Java
+-Pursuing Fall 2025 Software Engineering Opportunities
+-Building Full-Stack Applications
+-Sharpening Data Structures & Algorithims in Java
 
 
-- 🌱 I’m currently learning **Java,Javascript and Python**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
