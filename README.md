@@ -11,7 +11,7 @@ What I'm Up To
 
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
