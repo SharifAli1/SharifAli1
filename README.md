@@ -1,15 +1,15 @@
 <!-- GitHub Profile README -->
-
 <h1 align="center">👋 Hi, I'm Sharif Ali</h1>
 <h3 align="center">Junior Computer Science Student @ CUNY Queens College | Aspiring Software Engineer</h3>
-
 <p align="center">
 📍 New York City &nbsp;•&nbsp; 💻 Full-Stack Developer &nbsp;•&nbsp; 🚀 Seeking Summer 2026 SWE Internships
 </p>
 
-🎓 CS @ CUNY Queens College ’27
-🛠️ Currently building a Full‑Stack MERN Habit Tracker – FitNest
-📚 Actively sharpening Data Structures & Algorithms (Python)
+---
+
+- 🎓 CS @ CUNY Queens College '27
+- 🛠️ Currently building a Full‑Stack MERN Habit Tracker – **FitNest**
+- 📚 Actively sharpening Data Structures & Algorithms (Python)
 
 <h2>🌐 Socials</h2>
 
