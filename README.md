@@ -7,11 +7,7 @@
 📍 New York City &nbsp;•&nbsp; 💻 Full-Stack Developer &nbsp;•&nbsp; 🚀 Seeking Summer 2026 SWE Internships
 </p>
 
----
-
-<h2>💫 About Me</h2>
-
-🎓 **CS @ CUNY Queens College ’27**
+🎓 **CS @ CUNY Queens College ’27** <br/>
 🛠️ Currently building a **Full-Stack MERN Habit Tracker – FitNest**
 📚 Actively sharpening **Data Structures & Algorithms (Python)**
 
